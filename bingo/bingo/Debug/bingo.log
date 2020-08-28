@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\aaa71\OneDrive\바탕 화면\Study\bingo\bingo\main.cpp(14,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  bingo.vcxproj -> C:\Users\aaa71\OneDrive\바탕 화면\Study\bingo\Debug\bingo.exe
